@@ -1,4 +1,3 @@
-<h1>Livro de Receitas 👩‍🍳</h1>
-Bem vindo ao livro de receitas.
+<h1>Livro de Receitas 👩‍🍳</h1>.
 
 Aprendendo Git/Github
